@@ -1,38 +1,71 @@
+.headerbackground {
+  overflow: hidden;
+  background-color: white;
+  padding: 1px 10px;
+  margin: auto;
+  border-color: #dddddd;
+  border-style: solid;
+  line-height: 50px;
+}
+
 .header {
-    overflow: hidden;
-    background-color: white;
-    padding: 20px 10px;
-  }
+  overflow: hidden;
+  background-color: white;
+  margin: auto;
+  border-color: white;
+  width: 960px;
+  line-height: 50px;
+}
 
-  .header a {
-    float: left;
-    color: black;
-    text-align: center;
-    padding: 12px;
-    text-decoration: none;
-    font-size: 18px;
-    line-height: 25px;
-    border-radius: 4px;
-  }
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
 
-  .header a.logo {
-    font-size: 25px;
-    font-weight: bold;
-  }
+.header a.logo {
+  padding: 20px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: #4aaaa5;
+  color: white;
+  line-height: 50px;
+}
 
-  .header-right {
-    float: right;
-  }
-  
-  .html, body {
-    height: 100%;
-    margin: 0;
-  }
-  .wrapper {
-    min-height: 100%;
-    margin-bottom: -50px;
-  }
-  .footer,
-  .push {
-    height: 50px;
-  }
+.header-right {
+  float: right;
+  margin: auto;
+  padding: 20px;
+  color: #777777;
+  text-align: right;
+  line-height: 50px;
+}
+
+.html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
+.boxcenter {
+  padding: 10px;
+  margin: auto;
+  width: 960px;
+  border: 10px #dddddd;
+  background-color: white;
+}
+
+.footer,
+.push {
+  height: 50px;
+  text-align: center;
+}
