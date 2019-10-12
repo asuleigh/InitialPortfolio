@@ -53,19 +53,39 @@
 
 .wrapper {
   min-height: 100%;
-  margin-bottom: -50px;
+  margin-bottom: -50px;;
 }
 
 .boxcenter {
   padding: 10px;
   margin: auto;
   width: 960px;
-  border: 10px #dddddd;
+  border: 5px;
   background-color: white;
+  left: 150px;
+  right: 150px;
+  top: 150px;
+  bottom:100px;
+  position: fixed;
+  text-align: left;
+  border-style: solid;
+  border-color: #dddddd;
 }
 
-.footer,
-.push {
-  height: 50px;
+.bio {
+  float: right;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #666666;
+  color: white;
   text-align: center;
+  margin: auto;
+  border-top: 10px;
+  border-style: solid;
+  border-color: #4aaaa5;
 }
