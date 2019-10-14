@@ -15,7 +15,7 @@
   border-color: white;
   width: 960px;
   line-height: 50px;
-  
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .header a {
@@ -48,10 +48,17 @@
   line-height: 50px;
 }
 
-#links {
+#aboutlink {
   color: #777777;
 }
 
+#portfoliolink {
+  color: #777777;
+}
+
+#contactlink {
+  color: #777777;
+}
 
 .html, body {
   height: 100%;
@@ -74,10 +81,45 @@
   border-color: #dddddd;
   position: relative;
   top: 100px;
+  height: 440px;
 }
 
-.bio {
+.aboutme {
+  color:#4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.imgleft {
+  float: left;
+}
+
+p {
   float: right;
+  margin: auto;
+  width: 800px;
+  color: #777777;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+.about2{
+  margin: auto;
+  float: left;
+  color: #777777;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 10px;
+  line-height: 1.5;
+}
+
+.about3 {
+  margin: auto;
+  float: left;
+  color: #777777;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 20px;
+  line-height: 1.5;
 }
 
 .footer {
@@ -87,9 +129,13 @@
   width: 100%;
   background-color: #666666;
   color: white;
-  text-align: center;
   margin: auto;
   border-top: 10px;
   border-style: solid;
   border-color: #4aaaa5;
+  height: 50px;
+}
+
+.p3 {
+  color:white;
 }
