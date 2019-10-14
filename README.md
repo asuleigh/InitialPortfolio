@@ -25,7 +25,7 @@ ii: USAGE
 iii: CREDITS
 -https://meyerweb.com/eric/tools/css/reset/
 -https://www.toptal.com/designers/subtlepatterns/
-https://w3schools.com
+-https://w3schools.com
 
 
 iv: LICENSE
