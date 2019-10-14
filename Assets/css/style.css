@@ -134,6 +134,7 @@ p {
   border-style: solid;
   border-color: #4aaaa5;
   height: 50px;
+  flex-shrink: 0;
 }
 
 .p3 {
