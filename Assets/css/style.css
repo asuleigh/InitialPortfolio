@@ -119,7 +119,7 @@ time, mark, audio, video {
   float: left;
 }
 
-p {
+.about1 {
   float: right;
   margin: auto;
   width: 800px;
@@ -159,12 +159,13 @@ p {
   border-top: 10px;
   border-style: solid;
   border-color: #4aaaa5;
-  height: 20px;
+  height: 50px;
   flex-shrink: 0;
+  text-align: center;
 }
 
 .p3 {
+  text-align:center;
   color:white;
-  margin: 0 auto;
-  text-align: center;
+  margin: auto 0;
 }
