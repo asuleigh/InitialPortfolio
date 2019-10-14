@@ -224,7 +224,7 @@ input[type=submit]:hover {
 
 .gallery__img {
   max-height: 100%;
-  width: 30%;
+  width: 10vw;
   object-fit: contain;
 }
 
