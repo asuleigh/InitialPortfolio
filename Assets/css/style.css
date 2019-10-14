@@ -215,6 +215,22 @@ input[type=submit]:hover {
   color: #777777;
 }
 
+
+.container2 {
+  position: relative;
+}
+
+
+.text-block {
+  position: relative;
+  bottom: 40px;
+  width: 180px;
+  background-color: #4aaaa5;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
