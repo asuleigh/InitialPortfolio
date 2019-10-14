@@ -3,7 +3,7 @@ Amanda Surber's Portfolio README
 
 ABSTRACT: This is a personal portfolio website. I have created this site in hopes that I will be able to continuously use it to improve my skills and for a place to showcase my public profile and work. (Aside: The current version is created to visually reflect the current assignment. There are more styles that I have coded that I will reintegrate in the future)
 
-Table of Contents:
+TABLE OF CONTENTS:
 
 i: Installation
 ii: Usage
