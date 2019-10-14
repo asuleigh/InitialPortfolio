@@ -133,11 +133,10 @@ p {
   border-top: 10px;
   border-style: solid;
   border-color: #4aaaa5;
-  height: 50px;
+  height: 20px;
   flex-shrink: 0;
 }
 
 .p3 {
   color:white;
-  text-align: center;
 }
