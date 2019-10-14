@@ -167,6 +167,40 @@ time, mark, audio, video {
   line-height: 1.5;
 }
 
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 4px; 
+  margin-bottom: 16px; 
+  resize: vertical;
+  color: #777777;
+}
+
+input[type=submit] {
+  background-color: #4aaaa5;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 35px;
+  text-align: center;
+}
+
+input[type=submit]:hover {
+  background-color: teal;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  color: #777777;
+}
+
 .footer {
   position: fixed;
   left: 0;
