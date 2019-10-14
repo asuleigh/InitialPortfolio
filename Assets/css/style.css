@@ -223,12 +223,18 @@ input[type=submit]:hover {
 
 .text-block {
   position: relative;
-  bottom: 40px;
+  bottom: 30px;
   width: 180px;
+  height: 35px;
   background-color: #4aaaa5;
   color: white;
   padding-left: 10px;
   padding-right: 10px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .gallery {
