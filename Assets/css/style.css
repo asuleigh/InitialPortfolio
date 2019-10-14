@@ -122,6 +122,18 @@ time, mark, audio, video {
   font-size: 25px;
 }
 
+.contactme {
+  color:#4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+
+.myportfolio {
+  color:#4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+
 .imgleft {
   float: left;
 }
