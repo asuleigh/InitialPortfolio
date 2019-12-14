@@ -1,6 +1,15 @@
 # Amanda's Initial Portfolio
 Amanda Surber's First Portfolio README
 
+LINK:
+https://asuleigh.github.io/InitialPortfolio/index.html
+
+LINKS TO SCREENSHOTS:
+https://github.com/asuleigh/portfolio/blob/master/Assets/images/indexScreenshot.png
+https://github.com/asuleigh/portfolio/blob/master/Assets/images/portfolioScreenshot.png
+https://github.com/asuleigh/portfolio/blob/master/Assets/images/contactScreenshot.png
+
+
 ABSTRACT: This my first personal portfolio website. I have created this site in hopes that I will be able to continuously use it to improve my skills and for a place to showcase my public profile and work. (Aside: The current version is created to visually reflect the first assignment. There are more styles that I have coded that I will reintegrate in the future)
 
 TABLE OF CONTENTS:
