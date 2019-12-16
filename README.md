@@ -29,7 +29,7 @@ i: INSTALLATION
 -Clone or download style.css to the "css" folder and and images available to the "images' folder
 
 ii: USAGE
--Layout is as it appears. Links in Header work and so does the Submit button. Currently links are not set up for Portfolio.html (as I have nothing to post yet) and messages will not send yet. Will be added in coming updates.
+-Layout is as it appears. The index page contains my About Me, the portfolio page contains links to past work, and the contact page gives users a form to contact me. Links in Header work and so does the Submit button. Currently messages will not redirect, though you can interact with the box. More will be added/finished in coming updates.
 
 iii: CREDITS
 -https://meyerweb.com/eric/tools/css/reset/
